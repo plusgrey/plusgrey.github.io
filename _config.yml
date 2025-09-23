@@ -24,13 +24,13 @@ repository               : "plusgrey/plusgrey.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jiahui Wang"
+  pronouns         : "He/Him"  
+  bio              : "Keep Studying."
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wjiahui@u.nus.edu" 
 
   # Academic websites
   academia         : # URL
