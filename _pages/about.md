@@ -17,13 +17,13 @@ My Resume can be accessed here: [Résumé_Jiahui_Wang](../files/Résumé_Jiahui_
 
 News
 ======
-[Sep 2025] Our work "SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference" is accepted by NeurIPS 2025!!
+[Sep 2025] Our work "SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
 
-[Sep 2025] Our work "DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation" is accepted by NeurIPS 2025!!
+[Sep 2025] Our work "DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
 
-[Feb 2025] Our work "SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation" is accepted by IEEE TNNLS 2025!!
+[Feb 2025] Our work "SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation" is accepted by [IEEE TNNLS 2025](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)!!
 
-[Dec 2024] Our work "Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment" is accepted by AAAI 2025!!
+[Dec 2024] Our work "Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment" is accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!!
 
-[May 2023] Our work "Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention" is published on ICRA 2023!!
+[May 2023] Our work "Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention" is published on [ICRA 2023](https://www.ieee-ras.org/about-ras/ras-calendar/event/1706-icra-2023-international-conference-on-robotics-and-automation)!!
 
