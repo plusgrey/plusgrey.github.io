@@ -17,13 +17,13 @@ My Resume can be accessed here: [Résumé_Jiahui_Wang](../files/Résumé_Jiahui_
 
 News
 ======
-**[Sep 2025]** Our work "[SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference](https://neurips.cc/virtual/2025/poster/115633)" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
+**[Sep 2025]** Our work "[SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference](https://neurips.cc/virtual/2025/poster/115633)" is accepted by **NeurIPS 2025**!
 
-**[Sep 2025]** Our work "[DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation](https://neurips.cc/virtual/2025/poster/119244)" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
+**[Sep 2025]** Our work "[DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation](https://neurips.cc/virtual/2025/poster/119244)" is accepted by **NeurIPS 2025**!
 
-**[Feb 2025]** Our work "SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation" is accepted by [IEEE TNNLS 2025](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)!!
+**[Feb 2025]** Our work "[SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/10937251/)" is accepted by **IEEE TNNLS 2025**!
 
-**[Dec 2024]** Our work "Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment" is accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!!
+**[Dec 2024]** Our work "[Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/33863)" is accepted by **AAAI 2025**!
 
-**[May 2023]** Our work "Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention" is published on [ICRA 2023](https://www.ieee-ras.org/about-ras/ras-calendar/event/1706-icra-2023-international-conference-on-robotics-and-automation)!!
+**[May 2023]** Our work "[Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention](https://www.semanticscholar.org/paper/Few-Shot-Point-Cloud-Semantic-Segmentation-via-and-Wang-Zhu/439ca9e2ea39520cd288960493ad5854aff758bd)" is published on **ICRA 2023**!
 
