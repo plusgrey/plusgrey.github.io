@@ -17,9 +17,9 @@ My Resume can be accessed here: [Résumé_Jiahui_Wang](../files/Résumé_Jiahui_
 
 News
 ======
-**[Sep 2025]** Our work "SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
+**[Sep 2025]** Our work "[SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference](https://neurips.cc/virtual/2025/poster/115633)" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
 
-**[Sep 2025]** Our work "DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
+**[Sep 2025]** Our work "[DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation](https://neurips.cc/virtual/2025/poster/119244)" is accepted by [NeurIPS 2025](https://neurips.cc/Conferences/2025)!!
 
 **[Feb 2025]** Our work "SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation" is accepted by [IEEE TNNLS 2025](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)!!
 
