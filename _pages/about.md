@@ -13,7 +13,7 @@ I am advised by [Prof. Lee Tong Heng](https://cde.nus.edu.sg/ece/staff/lee-tong-
 
 Before joining NUS, I obtained my B.S. degree from the School of Physics, Harbin Institute of Technology.
 
-My Resume can be accessed here: [Résumé_Jiahui_Wang](../files/CV_Jiahui_Wang.pdf).
+My CV can be accessed here: [CV_Jiahui_Wang](../files/CV_Jiahui_Wang.pdf).
 
 News
 ======
