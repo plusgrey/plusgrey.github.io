@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate from the **College of Design and Engineering, National University of Singapore**. My research interests include machine learning, computer vision, deep learning, 3D computer vision, computer graphics, time-series models, Few-Shot learning, vision-language models, efficient AI, and large language models.
+I am a final-year Ph.D. candidate from the **College of Design and Engineering, National University of Singapore**. My research interests include machine learning, computer vision, deep learning, 3D computer vision, Point Cloud, computer graphics, time-series models, Few-/Zero-Shot learning, vision-language models, efficient AI, and large language models.
 
 I am advised by [Prof. Lee Tong Heng](https://cde.nus.edu.sg/ece/staff/lee-tong-heng/) and [Prof. Abdullah Al Mamun](https://cde.nus.edu.sg/ece/staff/abdullah-al-mamun/). I am very fortunate to work closely with [Prof. Cheng Xiang](https://cde.nus.edu.sg/ece/staff/xiang-cheng/), [Prof. Prahlad VADAKKEPAT](https://cde.nus.edu.sg/ece/staff/prahlad-vadakkepat/) in NUS, and [Dr. Haiyue Zhu](https://research.a-star.edu.sg/researcher/haiyue-zhu/) from SIMTech, A*Star.
 
 Before joining NUS, I obtained my B.S. degree from the School of Physics, Harbin Institute of Technology.
 
-My CV can be accessed here: [CV_Jiahui_Wang](../files/CV_Jiahui_Wang_3D.pdf).
+My CV can be accessed here: [CV_Jiahui_Wang](../files/CV_Jiahui_Wang_Latest.pdf).
 
 News
 ======
