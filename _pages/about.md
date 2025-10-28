@@ -17,6 +17,8 @@ My CV can be accessed here: [CV_Jiahui_Wang](../files/CV_Jiahui_Wang_3D.pdf).
 
 News
 ======
+**[Oct 2025]** I am joining TikTok Singapore as an AI Engineer!
+
 **[Sep 2025]** Our work "[SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference](https://neurips.cc/virtual/2025/poster/115633)" is accepted by **NeurIPS 2025**!
 
 **[Sep 2025]** Our work "[DynaNav: Dynamic Feature and Layer Selection for Efficient Visual Navigation](https://neurips.cc/virtual/2025/poster/119244)" is accepted by **NeurIPS 2025**!
