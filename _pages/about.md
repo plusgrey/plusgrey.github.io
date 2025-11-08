@@ -17,6 +17,8 @@ My CV can be accessed here: [CV_Jiahui_Wang](../files/CV_Jiahui_Wang_Latest.pdf)
 
 News
 ======
+**[Nov 2025]** Our work "EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance" is accepted by **AAAI 2026** as an **Oral** presentation!
+
 **[Oct 2025]** I am joining TikTok Singapore as an AI Engineer!
 
 **[Sep 2025]** Our work "[SingRef6D: Monocular Novel Object Pose Estimation with a Single RGB Reference](https://neurips.cc/virtual/2025/poster/115633)" is accepted by **NeurIPS 2025**!
